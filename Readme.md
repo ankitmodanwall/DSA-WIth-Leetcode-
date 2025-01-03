@@ -66,7 +66,8 @@ Contributions are welcome! Here's how you can contribute:
 4. Push your branch and create a pull request.
 
 ## Resources
-- [LeetCode](https://leetcode.com/) - Problem platform
+- [LeetCode](https://leetcode.com/
+) - Problem platform
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - DSA learning
 - [Hackerrank](https://www.hackerrank.com/) - Practice platform
 
@@ -74,8 +75,3 @@ Contributions are welcome! Here's how you can contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Happy Coding! 🚀
-
-For help
-<iframe src="https://github.com/sponsors/ankitmodanwall/card" title="Sponsor ankitmodanwall" height="225" width="600" style="border: 0;"></iframe>
