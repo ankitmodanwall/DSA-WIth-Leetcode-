@@ -40,7 +40,7 @@ DSA-Sheets-LeetCode/
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-ankitmodanwal/DSA-Sheets-LeetCode.git
+   git clone https://github.com/ankitmodanwall/Leetcode-Problem-DSA-with-c--.git
    ```
 2. Navigate to the desired category folder and open the problem statement file.
 3. Attempt to solve the problem on your own.
@@ -76,3 +76,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 Happy Coding! 🚀
+
+For help
+<iframe src="https://github.com/sponsors/ankitmodanwall/card" title="Sponsor ankitmodanwall" height="225" width="600" style="border: 0;"></iframe>
