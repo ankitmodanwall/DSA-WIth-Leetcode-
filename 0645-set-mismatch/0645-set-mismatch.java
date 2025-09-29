@@ -11,10 +11,11 @@ class Solution {
         }
         for (int i = 1; i <= nums.length; i++) {
 
-            if (arr[i] == false){
-            res[1] = i;
-            break;
-        }}
+            if (arr[i] == false) {
+                res[1] = i;
+                break;
+            }
+        }
         return res;
     }
 }
