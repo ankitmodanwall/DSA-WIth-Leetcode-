@@ -6,7 +6,7 @@ class Solution {
         int right = m * n -1;
 
         while (left <= right ){
-            int mid = (right+left)/2;
+            int mid =  (right+left)/2;
             int mid_val = matrix[mid/n][mid%n];
 
             if(mid_val == target ){
