@@ -1,12 +1,16 @@
 # Welcome to DSA WITH LEETCODE 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## LeetCode Topics👇🏻
+|  |
+| ------- |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -44,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -53,4 +58,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
