@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -62,4 +64,12 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
